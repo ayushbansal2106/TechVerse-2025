@@ -1,41 +1,46 @@
 import React from "react";
-import "./convener.css";
-const coordinators = () => {
-  return (
-    <React.Fragment>
-      <div className="parent-convener">
-        <div className="convener-title">
-          <img src="/images/rrr.webp" alt="" className="convener-logo" />
-          <h1 className="convener-title-name">Coordinators</h1>
-        </div>
+import PersonSection from "./PersonCard";
 
-        <div className="convener-container">
-          <div className="convener-card">
-            <img
-              className="convener-card-image"
-              // src="/images/giridharan.webp"
-              // alt="Giridharan - Assistant professor"
-            />
-            {/* <h1 className="convener-name">Mr. S. Giridharan</h1> */}
-            <h1 className="convener-position">
-              {/* Assistant Professor - Cyber Security */}
-            </h1>
-          </div>
-          <div className="convener-card">
-            <img
-              className="convener-card-image"
-              // src="/images/nandhashree.webp"
-              // alt="Nandhashree - Assistant professor"
-            />
-            {/* <h1 className="convener-name"> Ms. K.R. Nandhashree</h1> */}
-            <h1 className="convener-position">
-              {/* Assistant Professor - Cyber Security */}
-            </h1>
-          </div>
-        </div>
-      </div>
-    </React.Fragment>
+// Coordinators data
+const coordinatorsData = [
+  {
+    id: 1,
+    name: "Ms. Priyanka Dhiman",
+    position: "Associate Professor",
+    department: "Sunstone",
+    image: "/images/Priyanka Dhiman.jpeg",
+    alt: "Sunstone - Associate Professor"
+  },
+  {
+    id: 2,
+    name: "Mr. Adil Raja",
+    position: "Assistant Professor",
+    department: "Sunstone",
+    image: "/images/Adil Raja.jpeg",
+    alt: "Sunstone - Assistant professor"
+  },
+];
+
+// Configuration for coordinators
+const coordinatorsConfig = {
+  title: "Coordinators",
+  logo: "/images/rrr.webp",
+  logoAlt: "Rayat Bahra University Logo",
+  showDepartment: true,
+  animationDelay: 200
+};
+
+const Coordinators = () => {
+  return (
+    <PersonSection
+      title={coordinatorsConfig.title}
+      people={coordinatorsData}
+      logo={coordinatorsConfig.logo}
+      logoAlt={coordinatorsConfig.logoAlt}
+      animationDelay={coordinatorsConfig.animationDelay}
+      showDepartment={coordinatorsConfig.showDepartment}
+    />
   );
 };
 
-export default coordinators;
+export default Coordinators;
