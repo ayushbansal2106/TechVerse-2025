@@ -35,9 +35,9 @@ const schedule = () => {
             <div className="container" id="timeline-container">
               <h2 className="date">
                 <div>
-                  Apr
+                  Aug
                   <div>
-                    <div> 18</div> <div>th</div>
+                    <div> 1</div> <div>st</div>
                   </div>
                 </div>
               </h2>
@@ -55,14 +55,14 @@ const schedule = () => {
               <h2 className="container-title">Abstract Submission</h2>
               <h1 className="date">
                 <div>
-                  Apr
+                  Sept
                   <div>
-                    <div>18</div> <div>th</div>
+                    <div>1</div> <div>st</div>
                   </div>
-                  -Apr
+                  {/* -Apr
                   <div>
                     <div>28</div> <div>th</div>
-                  </div>
+                  </div> */}
                 </div>
               </h1>
               <p className="container-description">
@@ -73,7 +73,7 @@ const schedule = () => {
               </p>
               <span className="circle"></span>
             </div>
-            <div className="container ">
+            {/* <div className="container ">
               <h1 className="date">
                 <div>
                   Apr
@@ -98,10 +98,10 @@ const schedule = () => {
               <h2 className="container-title">Project Submission</h2>
               <h1 className="date">
                 <div>
-                  {/* Apr
+                  Apr
                   <div>
                     <div>18</div> <div>th</div>
-                  </div> */}
+                  </div>
                   Apr
                   <div>
                     <div>28</div> <div>th</div>
@@ -117,15 +117,15 @@ const schedule = () => {
               and show the judges what you’ve built during this exciting hackathon.
               </p>
               <span className="circle"></span>
-            </div>
+            </div> */}
 
             <div className="container ">
               <h2 className="container-title">Finalists Announcements</h2>
               <h1 className="date">
                 <div>
-                  May
+                  Sept
                   <div>
-                    <div>1</div> <div>st</div>
+                    <div>5</div> <div>th</div>
                   </div>
                 </div>
               </h1>
@@ -140,21 +140,21 @@ const schedule = () => {
             </div>
 
             <div className="container ">
-              <h2 className="container-title">Hackathon Finale</h2> <br />
+              <h2 className="container-title">Hackathon Bigins</h2> <br />
               <h1 className="date">
                 <div>
-                  May
+                  Sept
                   <div>
-                    <div>8</div> <div>th</div>
+                    <div>12</div> <div>th</div>
                   </div>
-                  - May
+                  {/* - May
                   <div>
                     <div>9</div> <div>th</div>
-                  </div>
+                  </div> */}
                 </div>
               </h1>
               <p className="container-description">
-                Get ready for the moment of triumph – the Hackathon Finale is
+                Get ready for the moment of triumph the Hackathon Finale is
                 just around the corner! After an intense and exhilarating
                 journey, we've arrived at the grand finale, where the most
                 ingenious minds will showcase their remarkable solutions.
@@ -165,9 +165,9 @@ const schedule = () => {
               <h2 className="container-title">Award Ceremony</h2>
               <h1 className="date">
                 <div>
-                  May
+                  Sept
                   <div>
-                    <div>9</div> <div>th</div>
+                    <div>13</div> <div>th</div>
                   </div>
                 </div>
               </h1>
@@ -194,9 +194,9 @@ const schedule = () => {
               <h2 className="container-title-mobile">Registration opens</h2>{" "}
               <h2 className="date-mobile">
                 <div>
-                  Apr
+                  Aug
                   <div>
-                    <div>18</div> <div>th</div>
+                    <div>1</div> <div>st</div>
                   </div>
                 </div>
               </h2>
@@ -214,14 +214,14 @@ const schedule = () => {
               <h1 className="date-mobile">
                 {" "}
                 <div>
-                  Apr
+                  Sept
                   <div>
-                    <div>18</div> <div>th</div>
+                    <div>1</div> <div>st</div>
                   </div>
-                  -Apr
+                  {/* -Apr
                   <div>
                     <div>28</div> <div>th</div>
-                  </div>
+                  </div> */}
                 </div>
               </h1>
               <p className="container-description-mobile">
@@ -236,9 +236,9 @@ const schedule = () => {
               <h2 className="container-title-mobile">Finalists Annoncements</h2>
               <h1 className="date-mobile">
                 <div>
-                  May
+                  Sept
                   <div>
-                    <div>1</div> <div>st</div>
+                    <div>5</div> <div>th</div>
                   </div>
                 </div>
               </h1>
@@ -255,9 +255,9 @@ const schedule = () => {
               <h2 className="container-title-mobile">Registration Closes</h2>
               <h1 className="date-mobile">
                 <div>
-                  Apr
+                  sept
                   <div>
-                    <div>28</div> <div>th</div>
+                    <div>1</div> <div>st</div>
                   </div>
                 </div>
               </h1>
@@ -275,18 +275,18 @@ const schedule = () => {
               <br />
               <h1 className="date-mobile">
                 <div>
-                  May
+                  Sept
                   <div>
-                    <div>8</div> <div>th</div>
+                    <div>12</div> <div>th</div>
                   </div>
-                  - May
+                  {/* - May
                   <div>
                     <div>9</div> <div>th</div>
-                  </div>
+                  </div> */}
                 </div>
               </h1>
               <p className="container-description-mobile">
-                Get ready for the moment of triumph – the Hackathon Finale is
+                Get ready for the moment of triumph  the Hackathon Finale is
                 just around the corner! After an intense and exhilarating
                 journey, we've arrived at the grand finale, where the most
                 ingenious minds will showcase their remarkable solutions.
@@ -297,9 +297,9 @@ const schedule = () => {
               <h2 className="container-title-mobile">Award Ceremony</h2>
               <h1 className="date-mobile">
                 <div>
-                  May
+                  Sept
                   <div>
-                    <div>9</div> <div>th</div>
+                    <div>13</div> <div>th</div>
                   </div>
                 </div>
               </h1>

@@ -63,14 +63,14 @@ const faqs = () => {
 
           <div className="faqs-content" onClick={handleArrow}>
             <h1 className="faqs-content-title">
-              What is “TechVerse 2025”?
+              What is “Sunstone Hackathon 2025”?
               <ChevronRightIcon
                 style={styles.container}
                 className="faqs-arrow"
               />
             </h1>
             <p className="faqs-content-description">
-              TechVerse 2025 is the first 24-hour hackathon
+              Sunstone Hackathon 2025 is the first 24-hour hackathon
               organized by the Sunstone (Alpha School of Rayat Bahra University) Eduversity
             </p>
           </div>
@@ -84,7 +84,7 @@ const faqs = () => {
               />
             </h1>
             <p className="faqs-content-description">
-              TechVerse 2025 is open to all undergraduate students and tech lovers from all
+              Sunstone Hackathon 2025 is open to all undergraduate students and tech lovers from all
               colleges across India.
             </p>
           </div>
@@ -157,15 +157,15 @@ const faqs = () => {
           </div>
           <div className="faqs-content" onClick={handleArrow}>
             <h1 className="faqs-content-title">
-              What is the team size to participate in the TechVerse 2025?
+              What is the team size to participate in the Sunstone Hackathon 2025?
               <ChevronRightIcon
                 style={styles.container}
                 className="faqs-arrow"
               />
             </h1>
             <p className="faqs-content-description">
-              The teams must have a minimum of 2 members and a maximum of 4
-              members.
+              The teams must have a minimum of 2 members and a maximum of 3
+              members in case 1 member is a girl.
             </p>
           </div>
           <div className="faqs-content" onClick={handleArrow}>

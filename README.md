@@ -83,7 +83,7 @@ If you encounter any issues or have suggestions for improvements, please submit 
 ## Legal Usage
 To Legally use this site for your event, [click here](https://www.upwork.com/services/product/development-it-react-website-for-your-hackathon-event-1817556808465455243?ref=project_share) or contact query@shadowctrl.me 
 
-## Contact Information
+<!-- ## Contact Information
 
 For any inquiries or customized solutions, feel free to reach out to me at query@shadowctrl.me.
 
@@ -95,6 +95,6 @@ If you are interested in working with me on your project, feel free to visit my 
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shadowctrl) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shadowctrl)
-
+ -->
 
 # ⭐️ Don't forget to give this repo a star if you find it useful!

@@ -13,13 +13,56 @@ const convener = () => {
           <div className="convener-card">
             <img
               className="convener-card-image"
-              // src="/images/senthilkumar.webp"
-              // alt="Senthil Kumar - HOD Cyber Security"
+              src="/images/S.-Gurvinder-Singh-Bahra.jpg"
+              alt="Senthil Kumar - HOD Cyber Security"
             />
-            {/* <h1 className="convener-name"> Dr. M. Senthil Kumar</h1> */}
+            <h1 className="convener-name"> S. Gurvinder Singh Bahra</h1>
 
             <h1 className="convener-position">
-              {/* Head Of Department - Cyber Security{" "} */}
+              Hon'ble Chancellor,{" "}
+              Rayat Bahra University
+            </h1>
+          </div>
+
+          <div className="convener-card">
+            <img
+              className="convener-card-image"
+              src="/images/S.K. Bansal.jpeg"
+              alt="Senthil Kumar - HOD Cyber Security"
+            />
+            <h1 className="convener-name"> S.K. Bansal</h1>
+
+            <h1 className="convener-position">
+              Pro Vice Chancellor,{" "}
+              Rayat Bahra University
+            </h1>
+          </div>
+
+          <div className="convener-card">
+            <img
+              className="convener-card-image"
+              src="/images/Gurdansh Singh.jpeg"
+              alt="Senthil Kumar - HOD Cyber Security"
+            />
+            <h1 className="convener-name"> S.K. Bansal</h1>
+
+            <h1 className="convener-position">
+              Registrar,{" "}
+              Rayat Bahra University
+            </h1>
+          </div>
+
+          <div className="convener-card">
+            <img
+              className="convener-card-image"
+              src="/images/Sakshi mehta.jpeg"
+              alt="Senthil Kumar - HOD Cyber Security"
+            />
+            <h1 className="convener-name"> S.K. Bansal</h1>
+
+            <h1 className="convener-position">
+              Director Alpha School of,{" "}
+              Rayat Bahra University
             </h1>
           </div>
         </div>

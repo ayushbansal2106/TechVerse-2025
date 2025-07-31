@@ -12,13 +12,13 @@ const guildelines = () => {
         <div className="guidelines-container">
           <div className="guidelines-content">
             <div className="guidelines-1">
-              1. The teams can have a minimum of 2 members and a maximum of 4
-              members. 🤝👥
+              1. The teams can have a minimum of 2 members and a maximum of 3
+              members in case 1 member is girl. 🤝👥
               <br /> <br />
-              2. The last date for team registration is 28th April 2025. ⏰🗓️{" "}
+              2. The last date for team registration is 1st September 2025. ⏰🗓️{" "}
               <br />
               <br />
-              3. The last date for abstract submission is 28th April 2025. 📝🗓️{" "}
+              3. The last date for abstract submission is 1st September 2025. 📝🗓️{" "}
               <br />
               <br />
               4. The project should be unique and shouldn't have ever been
@@ -38,13 +38,13 @@ const guildelines = () => {
               <br />
             </div>
             <div className="guidelines-2">
-              8. The abstract submission round costs ₹300 per member for all the teams 
+              8. The abstract submission round costs ₹100 per member for all the teams 
               that register for the event. Registrations after the deadline will also
               have to pay the late fine. 💵📅{" "}
               <br />
               <br />
               9. The scrutinized/shortlisted teams for the final round of 
-              "TechVerse 2025" will be announced on the 30th of April 2025.
+              "Sunstone Hackathon 2025" will be announced on the 5th of September 2025.
               🏁🕙🏁
               <br />
               <br /> 11. The finale round will be offline and held at our Rayat Bahra University
@@ -54,7 +54,7 @@ const guildelines = () => {
               prior to the commencement of the event. 🔌📑 <br />
               <br />
               13. All technical and physical requirements for the projects
-              should be brought by the team only, and no assistance will be
+              should be brought by the team only (including power extensions), and no assistance will be
               provided in this case. ⚙️🛠️🚫
               <br /> <br />
               14. Teams must present their projects in a clear and organized

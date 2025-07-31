@@ -150,6 +150,9 @@ const Navbar = () => {
             <li>
               <p onClick={() => handleScroll("#contact")}>Contact</p>
             </li>
+            <li>
+              <p><a href="/docs/HACK-THE-TECH.pdf.pdf">Download Broucher</a></p>
+            </li>
           </ul>
           <div className="last">
             <h2 className="register">

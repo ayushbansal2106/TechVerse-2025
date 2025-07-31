@@ -41,7 +41,7 @@ const hero = () => {
     seconds: 0,
   });
   const handleCountdown = () => {
-    const countDate = new Date("April 18, 2025 00:00:00").getTime();
+    const countDate = new Date("September 12, 2025 00:00:00").getTime();
     const now = new Date().getTime();
     const diff = countDate - now;
     {
@@ -130,10 +130,10 @@ const hero = () => {
             <div className="curve"></div>
 
             <div className="title1">
-              <span className="hackathon"> {"TechVerse"}</span>
+              <span className="hackathon"> {"SUNSTONE"}</span>
               <br />
               {/* <p className="tag1"> A National Level 24 Hour Hackathon</p> */}
-              <span className="hackathon">Hackathon</span>
+              <span className="hackathon">Hackathon 2025</span>
               <p className="description">
                 <span> 24 hour Hackathon </span>
                 showcasing innovative solutions
@@ -185,9 +185,9 @@ const hero = () => {
               <h3 className="text">
                 <div>
                   <div>
-                    <div> 18</div> <div> th</div>{" "}
+                    <div> 12</div> <div> th</div>{" "}
                   </div>{" "}
-                  April
+                  September
                 </div>
                 <Calender className="calender-icon" />
               </h3>
@@ -257,7 +257,7 @@ const hero = () => {
               </h3>
               <div className="flex items-start justify-between flex-col">
                 <p className="text14">Sunstone BTech CSE Student Branch </p>
-                <p className="text15">Techverse Team</p>
+                <p className="text15">Sunstone Team</p>
                 <div className="round2"></div>
               </div>
             </div>
